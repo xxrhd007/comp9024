@@ -1,0 +1,3 @@
+D:/UNSW/9024/COMP9024-master/week05_q1/cmake-build-debug/CMakeFiles/week05_q1.dir
+D:/UNSW/9024/COMP9024-master/week05_q1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/UNSW/9024/COMP9024-master/week05_q1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
